@@ -3,6 +3,7 @@ phase 1:
 /*************
 
 $gcc phase1.c -o phase1
+
 $./phase1
 
 ************/
@@ -11,8 +12,7 @@ $./phase1
 /*************
 
 gcc ping.c -o ping -pthread
-sudo ./ping <host>
-or
+
 sudo ./ping <hosts>
 
 ************/
