@@ -12,7 +12,7 @@ $./phase1
 /*************
 
 $gcc ping.c -o ping -pthread
-
+$sudo su
 $sudo ./ping <hosts>
 
 ************/
@@ -21,7 +21,6 @@ $sudo ./ping <hosts>
 /*************
 
 $gcc TCP_traceroute.c -o TCP_traceroute
-
 $sudo ./TCP_traceroute  <host name or IP>
 
 ************/
