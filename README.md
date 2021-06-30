@@ -25,3 +25,9 @@ $gcc TCP_traceroute.c -o TCP_traceroute
 $sudo ./TCP_traceroute  <host name or IP>
 
 ************/
+ 
+phase 3: /*************
+
+$sudo python3 phase4.py
+
+************/
