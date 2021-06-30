@@ -26,7 +26,7 @@ $sudo ./TCP_traceroute  <host name or IP>
 
 ************/
  
-phase 3: /*************
+phase 4: /*************
 
 $sudo python3 phase4.py
 
